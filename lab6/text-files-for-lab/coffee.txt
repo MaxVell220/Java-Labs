@@ -1,0 +1,30 @@
+beans
+Arabica
+2
+bank
+9
+instant
+Arabica
+1
+package
+5
+beans
+Robusta
+23
+vacuum packaging
+13
+ground
+Liberica
+4
+package
+2
+beans
+Robusta
+5
+vacuum packaging
+1
+instant
+Arabica
+2
+package
+10

@@ -1,0 +1,11 @@
+10
+en 10.34
+de 12,4
+en_CA -12.25
+fr_FR 0,02 
+en_US 1.20e+03
+en_GB 4.20e-04
+en_US 1.98
+en_GB 3.0
+it_IT 34,65
+zh_CN -6.009

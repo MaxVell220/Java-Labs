@@ -1,0 +1,15 @@
+Phone {number = 865324472
+, ownerName = Mary
+}
+Phone {number = 776546546
+, ownerName = Lily
+}
+Phone {number = 246562135
+, ownerName = Kate
+}
+Phone {number = 758932472
+, ownerName = Mark
+}
+Phone {number = 758932472
+, ownerName = Katrin
+}
